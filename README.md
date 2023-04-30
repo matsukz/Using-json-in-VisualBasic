@@ -1,2 +1,2 @@
-# Using-json-in-VisualBasic
-VBでjsonから値を引っ張るときに使う
+Newtonsoft.Json.Linq<br>
+https://www.newtonsoft.com/json/help/html/Introduction.htm
